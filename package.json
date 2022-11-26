@@ -1,0 +1,6 @@
+{
+  "name": "rome-vscode-crash-by-inputting-jp",
+  "devDependencies": {
+    "rome": "^10.0.1"
+  }
+}

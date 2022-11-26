@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "rome.rome",
+    "editor.insertSpaces": false
+  }
+}
